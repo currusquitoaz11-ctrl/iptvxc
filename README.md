@@ -79,7 +79,7 @@ Si te gusta, ⭐ el repo y compártelo.
 **Descarga, prueba y dime qué opinas. ¡Feliz streaming!** 🎉
 🔗 Si tienes un enlace de descarga (GitHub, Drive, etc.), añádelo al final así:
 text
-🔗 **Descarga:** [https://github.com/currusquitoaz11/plugin.video.iptvxc/releases](https://github.com/currusquitoaz11/plugin.video.iptvxc/releases)
+🔗 **Descarga:** [https://github.com/currusquitoaz11-ctrl/iptvxc]([https://github.com/currusquitoaz11/plugin.video.iptvxc/releases)](https://github.com/currusquitoaz11-ctrl/iptvxc)
 🧵 Recomendación de subreddits
 r/kodi
 
