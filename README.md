@@ -3,7 +3,6 @@
 
 [Release] XCUI Streams – Addon IPTV para Kodi con triple servidor, grabación y generador M3U
 
-📄 Cuerpo del post (copia y pega)
 # 🎬 XCUI Streams – Tu centro de control IPTV para Kodi 21+
 
 **XCUI Streams** es un addon gratuito, de código abierto y sin publicidad que convierte Kodi en un cliente IPTV profesional.  
